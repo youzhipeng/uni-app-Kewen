@@ -1,0 +1,9 @@
+.user.data-v-3085454b {
+  text-align: center;
+}
+.user image.data-v-3085454b {
+    width: 200rpx;
+    height: 200rpx;
+    border-radius: 50%;
+}
+

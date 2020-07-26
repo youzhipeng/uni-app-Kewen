@@ -1,0 +1,15 @@
+swiper-item image.data-v-b27397ea {
+  width: 100%;
+}
+swiper.data-v-b27397ea {
+  height: 300rpx;
+}
+.box.data-v-b27397ea {
+  overflow: hidden;
+  padding: 10rpx;
+}
+.box image.data-v-b27397ea {
+    width: 200rpx;
+    float: left;
+}
+

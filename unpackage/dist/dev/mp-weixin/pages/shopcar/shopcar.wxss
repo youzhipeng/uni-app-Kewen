@@ -1,0 +1,23 @@
+.box.data-v-791c6729 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+}
+.box image.data-v-791c6729 {
+    width: 200rpx;
+}
+.box .center.data-v-791c6729 {
+    width: 200rpx;
+}
+.box .right.data-v-791c6729 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+}
+.box .right input.data-v-791c6729 {
+      width: 100rpx;
+      text-align: center;
+}
+
